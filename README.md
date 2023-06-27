@@ -1,1 +1,1 @@
-# Qespy.tech
+# Qespy
